@@ -1,0 +1,653 @@
+.element {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 800px;
+  overflow: hidden;
+  position: relative;
+  width: 360px;
+}
+
+.element .arrow-back-ios {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 37px;
+  width: 24px;
+}
+
+.element .view {
+  height: 34px;
+  left: 16px;
+  position: absolute;
+  top: 86px;
+  width: 152px;
+}
+
+.element .frame {
+  align-items: center;
+  background-color: #ffa6a6;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px 34px;
+  position: relative;
+}
+
+.element .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Pretendard-SemiBold", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .overlap {
+  height: 288px;
+  left: 12px;
+  position: absolute;
+  top: 132px;
+  width: 328px;
+}
+
+.element .view-2 {
+  height: 288px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.element .div-3 {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 334px;
+}
+
+.element .overlap-group {
+  background-color: #ffffff;
+  border-radius: 8px;
+  height: 64px;
+  position: relative;
+  width: 328px;
+}
+
+.element .text-wrapper-3 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  height: 16px;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-4 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  height: 16px;
+  left: 115px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.element .img {
+  height: 44px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 44px;
+}
+
+.element .text-wrapper-5 {
+  color: #000000;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 16px;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+}
+
+.element .div-4 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 328px;
+}
+
+.element .overlap-wrapper {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+  width: 334px;
+}
+
+.element .overlap-group-wrapper {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 146px;
+  width: 334px;
+}
+
+.element .div-wrapper {
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 219px;
+  width: 334px;
+}
+
+.element .div-5 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 68px;
+  width: 328px;
+}
+
+.element .div-6 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 141px;
+  width: 328px;
+}
+
+.element .div-7 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 214px;
+  width: 328px;
+}
+
+.element .div-8 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 287px;
+  width: 328px;
+}
+
+.element .view-3 {
+  height: 20px;
+  left: 296px;
+  position: absolute;
+  top: 40px;
+  width: 22px;
+}
+
+.element .overlap-2 {
+  background-color: #f87979;
+  border-radius: 10px;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.element .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 16px;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.element .view-4 {
+  height: 20px;
+  left: 296px;
+  position: absolute;
+  top: 113px;
+  width: 22px;
+}
+
+.element .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 16px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-8 {
+  color: #000000;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 16px;
+  left: 267px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-9 {
+  color: #000000;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 16px;
+  left: 291px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 189px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-10 {
+  color: #000000;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 16px;
+  left: 279px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 259px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-11 {
+  color: #000000;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 16px;
+  left: 243px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.element .view-5 {
+  height: 50px;
+  left: 0;
+  position: fixed;
+  top: 24px;
+  width: 362px;
+}
+
+.element .image {
+  height: 48px;
+  left: -12189px;
+  position: absolute;
+  top: 440px;
+  width: 360px;
+}
+
+.element .div-9 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 360px;
+}
+
+.element .union-wrapper {
+  height: 24px;
+  left: 320px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.element .union-2 {
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.element .p {
+  color: transparent;
+  font-family: "establish Retrosans OTF-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 118px;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.element .span {
+  color: #ffa6a6;
+}
+
+.element .text-wrapper-12 {
+  color: #96e6ff;
+}
+
+.element .group-wrapper {
+  border: 1px solid;
+  border-color: #424242;
+  border-radius: 8px;
+  height: 24px;
+  left: 288px;
+  position: absolute;
+  top: 13px;
+  width: 24px;
+}
+
+.element .group {
+  height: 11px;
+  left: 2px;
+  position: relative;
+  top: 5px;
+}
+
+.element .text-wrapper-13 {
+  color: #000000;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 6px;
+  font-weight: 700;
+  height: 4px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 6px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.element .text-wrapper-14 {
+  color: #000000;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  height: 8px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.element .text-wrapper-15 {
+  color: #000000;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 8px;
+  font-weight: 700;
+  height: 6px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: 5px;
+}
+
+.element .div-10 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.element .view-6 {
+  height: 46px;
+  left: 0;
+  position: fixed;
+  top: 644px;
+  width: 360px;
+}
+
+.element .rectangle-2 {
+  background-color: #c1c1c1;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 45px;
+  width: 360px;
+}
+
+.element .img-2 {
+  height: 20px;
+  left: 16px;
+  position: absolute;
+  top: 14px;
+  width: 20px;
+}
+
+.element .view-7 {
+  background-color: #f6f6f6;
+  border: 1.03px solid;
+  border-color: #9797978f;
+  border-radius: 6px;
+  height: 32px;
+  left: 52px;
+  position: absolute;
+  top: 7px;
+  width: 248px;
+}
+
+.element .send {
+  height: 28px;
+  left: 316px;
+  position: absolute;
+  top: 9px;
+  width: 28px;
+}
+
+.element .frame-wrapper {
+  background-color: #ffeff5;
+  height: 68px;
+  left: 0;
+  position: fixed;
+  top: 690px;
+  width: 360px;
+}
+
+.element .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 24px;
+  left: 16px;
+  position: relative;
+  top: 12px;
+}
+
+.element .view-8 {
+  height: 44px;
+  position: relative;
+  width: 44px;
+}
+
+.element .img-3 {
+  height: 28px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.element .text-wrapper-16 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 42px;
+}
+
+.element .view-9 {
+  height: 44px;
+  position: relative;
+  width: 58px;
+}
+
+.element .text-wrapper-17 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 56px;
+}
+
+.element .auto-awesome {
+  height: 28px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.element .div-11 {
+  height: 44px;
+  position: relative;
+  width: 50px;
+}
+
+.element .text-wrapper-18 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 48px;
+}
+
+.element .group-wrapper-2 {
+  height: 28px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.element .group-2 {
+  height: 23px;
+  left: 2px;
+  position: relative;
+  top: 3px;
+  width: 24px;
+}
+
+.element .overlap-group-2 {
+  height: 23px;
+  position: relative;
+}
+
+.element .union-3 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.element .subtract {
+  height: 17px;
+  left: 7px;
+  position: absolute;
+  top: 6px;
+  width: 17px;
+}
+
+.element .image-2 {
+  height: 44px;
+  object-fit: cover;
+  position: relative;
+  width: 44px;
+}
+
+.element .gesture-three-buttons {
+  left: 0 !important;
+  position: fixed !important;
+  top: 758px !important;
+}
+
+.element .android-status-bar-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
