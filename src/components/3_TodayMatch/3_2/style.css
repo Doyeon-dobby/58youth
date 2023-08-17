@@ -1,0 +1,815 @@
+.element {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 800px;
+  overflow: hidden;
+  position: relative;
+  width: 360px;
+}
+
+.element .overlap {
+  height: 1338px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.element .image {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.element .overlap-group {
+  height: 800px;
+  position: relative;
+}
+
+.element .view {
+  background-color: #ffeff5;
+  height: 570px;
+  left: 0;
+  position: absolute;
+  top: 74px;
+  width: 360px;
+}
+
+.element .group-wrapper {
+  height: 24px;
+  left: 320px;
+  position: absolute;
+  top: 84px;
+  width: 24px;
+}
+
+.element .group {
+  height: 15px;
+  left: 1px;
+  position: relative;
+  top: 4px;
+  width: 22px;
+}
+
+.element .rectangle-2 {
+  background-color: #8a8a8a;
+  border-radius: 100px;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.element .rectangle-3 {
+  background-color: #8a8a8a;
+  border-radius: 100px;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 22px;
+}
+
+.element .rectangle-4 {
+  background-color: #8a8a8a;
+  border-radius: 100px;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 22px;
+}
+
+.element .div-3 {
+  height: 90px;
+  left: 16px;
+  position: absolute;
+  top: 120px;
+  width: 237px;
+}
+
+.element .img {
+  height: 40px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.element .text-wrapper-2 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 16px;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.element .frame {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0px 6px 6px 6px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 48px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: 20px;
+}
+
+.element .text-wrapper-3 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .div-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0px 6px 6px 6px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 48px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: 58px;
+}
+
+.element .div-4 {
+  height: 92px;
+  left: 16px;
+  position: absolute;
+  top: 230px;
+  width: 234px;
+}
+
+.element .frame-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0px 6px 6px 6px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 48px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: 60px;
+}
+
+.element .div-5 {
+  height: 92px;
+  left: 16px;
+  position: absolute;
+  top: 532px;
+  width: 234px;
+}
+
+.element .image-2 {
+  height: 126px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 334px;
+  width: 202px;
+}
+
+.element .div-wrapper-2 {
+  align-items: center;
+  background-color: #d7f5ff;
+  border-radius: 6px 0px 6px 6px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 122px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: 480px;
+}
+
+.element .group-wrapper-2 {
+  height: 19px;
+  left: 113px;
+  position: absolute;
+  top: 86px;
+  width: 134px;
+}
+
+.element .overlap-group-wrapper {
+  height: 19px;
+  width: 136px;
+}
+
+.element .overlap-group-2 {
+  background-color: #b2b2b24c;
+  border-radius: 8px;
+  height: 19px;
+  position: relative;
+  width: 134px;
+}
+
+.element .text-wrapper-4 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 11px;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.element .view-2 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 644px;
+  width: 360px;
+}
+
+.element .div-6 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.element .rectangle-5 {
+  background-color: #c1c1c1;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 45px;
+  width: 360px;
+}
+
+.element .img-2 {
+  height: 20px;
+  left: 16px;
+  position: absolute;
+  top: 14px;
+  width: 20px;
+}
+
+.element .view-3 {
+  background-color: #f6f6f6;
+  border: 1.03px solid;
+  border-color: #9797978f;
+  border-radius: 6px;
+  height: 32px;
+  left: 52px;
+  position: absolute;
+  top: 7px;
+  width: 248px;
+}
+
+.element .send {
+  height: 28px;
+  left: 316px;
+  position: absolute;
+  top: 9px;
+  width: 28px;
+}
+
+.element .view-wrapper {
+  height: 1264px;
+  left: 160px;
+  position: absolute;
+  top: 74px;
+  width: 200px;
+}
+
+.element .view-4 {
+  background-color: #ffffff;
+  height: 1214px;
+  position: relative;
+}
+
+.element .group-2 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 200px;
+}
+
+.element .group-3 {
+  height: 40px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.element .text-wrapper-5 {
+  color: #000000;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  height: 16px;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.element .div-7 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 200px;
+}
+
+.element .group-4 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 65px;
+  width: 200px;
+}
+
+.element .group-5 {
+  height: 40px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 119px;
+}
+
+.element .group-6 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 122px;
+  width: 200px;
+}
+
+.element .group-7 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 179px;
+  width: 200px;
+}
+
+.element .group-8 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 236px;
+  width: 200px;
+}
+
+.element .group-9 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 293px;
+  width: 200px;
+}
+
+.element .group-10 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 350px;
+  width: 200px;
+}
+
+.element .group-11 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 407px;
+  width: 200px;
+}
+
+.element .group-12 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 464px;
+  width: 200px;
+}
+
+.element .group-13 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 521px;
+  width: 200px;
+}
+
+.element .group-14 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 578px;
+  width: 200px;
+}
+
+.element .group-15 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 635px;
+  width: 200px;
+}
+
+.element .group-16 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 692px;
+  width: 200px;
+}
+
+.element .group-17 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 749px;
+  width: 200px;
+}
+
+.element .group-18 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 806px;
+  width: 200px;
+}
+
+.element .group-19 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 863px;
+  width: 200px;
+}
+
+.element .group-20 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 920px;
+  width: 200px;
+}
+
+.element .group-21 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 977px;
+  width: 200px;
+}
+
+.element .group-22 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 1034px;
+  width: 200px;
+}
+
+.element .group-23 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 1091px;
+  width: 200px;
+}
+
+.element .view-5 {
+  height: 50px;
+  left: 0;
+  position: fixed;
+  top: 24px;
+  width: 362px;
+}
+
+.element .overlap-2 {
+  background-image: url(../../../static/img/image.svg);
+  background-size: 100% 100%;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 360px;
+}
+
+.element .union-wrapper {
+  height: 24px;
+  left: 320px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.element .union-2 {
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 20px;
+}
+
+.element .p {
+  color: transparent;
+  font-family: "establish Retrosans OTF-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 118px;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.element .span {
+  color: #ffa6a6;
+}
+
+.element .text-wrapper-6 {
+  color: #96e6ff;
+}
+
+.element .view-6 {
+  border: 1px solid;
+  border-color: #424242;
+  border-radius: 8px;
+  height: 24px;
+  left: 288px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.element .group-24 {
+  height: 11px;
+  left: 2px;
+  position: relative;
+  top: 5px;
+}
+
+.element .text-wrapper-7 {
+  color: #000000;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 6px;
+  font-weight: 700;
+  height: 4px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 6px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.element .text-wrapper-8 {
+  color: #000000;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  height: 8px;
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.element .text-wrapper-9 {
+  color: #000000;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-size: 8px;
+  font-weight: 700;
+  height: 6px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 8px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: 5px;
+}
+
+.element .arrow-back-ios {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.element .div-8 {
+  background-color: #d9d9d9;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 360px;
+}
+
+.element .frame-wrapper {
+  background-color: #ffeff5;
+  height: 68px;
+  left: 0;
+  position: fixed;
+  top: 690px;
+  width: 360px;
+}
+
+.element .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 24px;
+  left: 16px;
+  position: relative;
+  top: 12px;
+}
+
+.element .view-7 {
+  height: 44px;
+  position: relative;
+  width: 44px;
+}
+
+.element .img-3 {
+  height: 28px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.element .text-wrapper-10 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 42px;
+}
+
+.element .view-8 {
+  height: 44px;
+  position: relative;
+  width: 58px;
+}
+
+.element .text-wrapper-11 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 56px;
+}
+
+.element .auto-awesome {
+  height: 28px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.element .div-9 {
+  height: 44px;
+  position: relative;
+  width: 50px;
+}
+
+.element .text-wrapper-12 {
+  color: #1e1e1e;
+  font-family: "Pretendard-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 48px;
+}
+
+.element .group-wrapper-3 {
+  height: 28px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.element .group-25 {
+  height: 23px;
+  left: 2px;
+  position: relative;
+  top: 3px;
+  width: 24px;
+}
+
+.element .overlap-group-3 {
+  height: 23px;
+  position: relative;
+}
+
+.element .union-3 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.element .subtract {
+  height: 17px;
+  left: 7px;
+  position: absolute;
+  top: 6px;
+  width: 17px;
+}
+
+.element .image-3 {
+  height: 44px;
+  object-fit: cover;
+  position: relative;
+  width: 44px;
+}
+
+.element .gesture-three-buttons {
+  left: 0 !important;
+  position: fixed !important;
+  top: 758px !important;
+}
+
+.element .android-status-bar-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
